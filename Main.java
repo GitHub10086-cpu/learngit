@@ -8,7 +8,7 @@ public class Main {
         String x = a.nextLine();
         System.out.print("输入一个数： ");
         int c = a.nextInt();
-        System.out.println("さあぁ、始めるよ！");
+        System.out.println("さあぁ、ゲームを始めるよ！");
         if (c >= 0) {
             System.out.println("I win!");
         } else {
@@ -17,7 +17,7 @@ public class Main {
         if (c <= -1) {
             System.out.println("Oh,that was Interesting");
         } else {
-            System.out.println("It's boring");
+            System.out.println("チェックメイト");
         }
         System.out.println("Name: ");
         System.out.println(x);
