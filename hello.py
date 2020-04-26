@@ -1,4 +1,5 @@
 a = input()
-x: int = 2 * a + 4^2
+int x = a
+x = x + 2
 print(x)
 print('hello,world!')
