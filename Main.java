@@ -15,7 +15,7 @@ public class Main {
             System.out.println("You win!");
         }
         if (c <= -1) {
-            System.out.println("Oh,that was Interesting");
+            System.out.println("おめでとうございます！");
         } else {
             System.out.println("チェックメイト");
         }
