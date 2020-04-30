@@ -21,13 +21,17 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="遍历数组" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,5 +45,15 @@
       <updated>1587972410307</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="415" y="278" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588260799684">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="415" y="278" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1588260799684" />
+    <state x="570" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1588259952742">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="570" y="366" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1588259952742" />
   </component>
 </project>
