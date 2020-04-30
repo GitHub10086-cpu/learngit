@@ -19,15 +19,19 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="数组排序" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,5 +45,31 @@
       <updated>1588261874843</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="415" y="320" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588261991621">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="415" y="320" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1588261991621" />
+    <state x="690" y="451" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588261990220">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="451" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1588261990220" />
+    <state width="846" height="203" key="GridCell.Tab.0.bottom" timestamp="1588262204318">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="846" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1588262204318" />
+    <state width="846" height="203" key="GridCell.Tab.0.center" timestamp="1588262204317">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="846" height="203" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1588262204317" />
+    <state width="846" height="203" key="GridCell.Tab.0.left" timestamp="1588262204317">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="846" height="203" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1588262204317" />
+    <state width="846" height="203" key="GridCell.Tab.0.right" timestamp="1588262204318">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="846" height="203" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588262204318" />
   </component>
 </project>
